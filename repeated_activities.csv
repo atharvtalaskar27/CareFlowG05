@@ -1,0 +1,519 @@
+Case_ID,Activity_Name,Occurrence_Count
+30094124,Medication Reconciliation Recorded,33
+30094124,Pyxis Medication Record,5
+30094124,Vitals Recorded,2
+30115213,Pyxis Medication Record,7
+30115213,Vitals Recorded,2
+30193781,Pyxis Medication Record,12
+30193781,Vitals Recorded,5
+30225689,Medication Reconciliation Recorded,12
+30225689,Pyxis Medication Record,9
+30225689,Vitals Recorded,5
+30272878,Vitals Recorded,7
+30272878,Pyxis Medication Record,4
+30279522,Medication Reconciliation Recorded,41
+30279522,Pyxis Medication Record,13
+30279522,Vitals Recorded,7
+30324772,Pyxis Medication Record,7
+30324772,Vitals Recorded,3
+30373795,Medication Reconciliation Recorded,23
+30373795,Vitals Recorded,8
+30373795,Pyxis Medication Record,8
+30667562,Medication Reconciliation Recorded,14
+30667562,Vitals Recorded,3
+30683757,Medication Reconciliation Recorded,8
+30683757,Vitals Recorded,3
+30683757,Pyxis Medication Record,3
+30689793,Vitals Recorded,10
+30689793,Pyxis Medication Record,7
+30701739,Pyxis Medication Record,7
+30804580,Pyxis Medication Record,6
+30804580,Medication Reconciliation Recorded,6
+30804580,Vitals Recorded,4
+30836087,Medication Reconciliation Recorded,17
+30836087,Pyxis Medication Record,11
+30836087,Vitals Recorded,3
+30915333,Vitals Recorded,14
+30915333,Medication Reconciliation Recorded,11
+30915333,Pyxis Medication Record,11
+30952335,Vitals Recorded,17
+30952335,Pyxis Medication Record,14
+30952335,Medication Reconciliation Recorded,5
+31023359,Medication Reconciliation Recorded,15
+31023359,Vitals Recorded,5
+31023359,Pyxis Medication Record,5
+31121963,Pyxis Medication Record,10
+31121963,Vitals Recorded,8
+31121963,Medication Reconciliation Recorded,8
+31153288,Medication Reconciliation Recorded,23
+31153288,Vitals Recorded,3
+31153288,Pyxis Medication Record,2
+31226423,Medication Reconciliation Recorded,25
+31226423,Vitals Recorded,3
+31226423,Pyxis Medication Record,2
+31254712,Medication Reconciliation Recorded,15
+31254712,Pyxis Medication Record,10
+31254712,Vitals Recorded,6
+31270431,Medication Reconciliation Recorded,7
+31270431,Vitals Recorded,3
+31270431,Pyxis Medication Record,2
+31283645,Medication Reconciliation Recorded,15
+31283645,Vitals Recorded,3
+31320010,Medication Reconciliation Recorded,21
+31320010,Vitals Recorded,4
+31320010,Pyxis Medication Record,2
+31353849,Medication Reconciliation Recorded,19
+31353849,Pyxis Medication Record,8
+31353849,Vitals Recorded,6
+31579293,Pyxis Medication Record,11
+31579293,Vitals Recorded,7
+31588683,Medication Reconciliation Recorded,14
+31612436,Medication Reconciliation Recorded,10
+31612436,Pyxis Medication Record,7
+31612436,Vitals Recorded,5
+31626291,Medication Reconciliation Recorded,17
+31626291,Vitals Recorded,10
+31626291,Pyxis Medication Record,5
+31628990,Pyxis Medication Record,6
+31628990,Vitals Recorded,4
+31640785,Medication Reconciliation Recorded,45
+31640785,Pyxis Medication Record,12
+31640785,Vitals Recorded,4
+31660580,Vitals Recorded,15
+31660580,Medication Reconciliation Recorded,7
+31660580,Pyxis Medication Record,5
+31764136,Medication Reconciliation Recorded,8
+31764136,Vitals Recorded,4
+31806264,Medication Reconciliation Recorded,12
+31806264,Vitals Recorded,7
+31806264,Pyxis Medication Record,6
+31945330,Medication Reconciliation Recorded,19
+31945330,Pyxis Medication Record,9
+31945330,Vitals Recorded,2
+31960365,Medication Reconciliation Recorded,5
+31960365,Vitals Recorded,4
+31960365,Pyxis Medication Record,2
+31970687,Pyxis Medication Record,4
+31970687,Medication Reconciliation Recorded,4
+32007337,Medication Reconciliation Recorded,10
+32007337,Vitals Recorded,8
+32007337,Pyxis Medication Record,5
+32034003,Medication Reconciliation Recorded,15
+32034003,Vitals Recorded,2
+32039794,Medication Reconciliation Recorded,12
+32039794,Vitals Recorded,6
+32039794,Pyxis Medication Record,2
+32095131,Medication Reconciliation Recorded,19
+32095131,Vitals Recorded,3
+32103106,Medication Reconciliation Recorded,6
+32103106,Pyxis Medication Record,4
+32103106,Vitals Recorded,3
+32204198,Pyxis Medication Record,5
+32204198,Vitals Recorded,2
+32259566,Vitals Recorded,2
+32259573,Medication Reconciliation Recorded,15
+32272346,Vitals Recorded,10
+32272346,Medication Reconciliation Recorded,2
+32281632,Medication Reconciliation Recorded,14
+32281632,Vitals Recorded,6
+32281632,Pyxis Medication Record,3
+32287800,Medication Reconciliation Recorded,32
+32287800,Vitals Recorded,22
+32287800,Pyxis Medication Record,10
+32345277,Medication Reconciliation Recorded,9
+32345277,Vitals Recorded,5
+32345277,Pyxis Medication Record,5
+32405286,Medication Reconciliation Recorded,21
+32405286,Vitals Recorded,2
+32443787,Medication Reconciliation Recorded,24
+32443787,Vitals Recorded,3
+32443787,Pyxis Medication Record,2
+32537287,Medication Reconciliation Recorded,12
+32537287,Pyxis Medication Record,8
+32537287,Vitals Recorded,5
+32579239,Medication Reconciliation Recorded,25
+32579239,Vitals Recorded,2
+32587478,Vitals Recorded,6
+32587478,Medication Reconciliation Recorded,4
+32719751,Medication Reconciliation Recorded,7
+32719751,Pyxis Medication Record,4
+32719751,Vitals Recorded,3
+32822973,Medication Reconciliation Recorded,11
+32822973,Vitals Recorded,5
+32822973,Pyxis Medication Record,4
+32840887,Medication Reconciliation Recorded,25
+32840887,Vitals Recorded,2
+32891808,Medication Reconciliation Recorded,19
+32952584,Medication Reconciliation Recorded,14
+32952584,Vitals Recorded,7
+32952584,Pyxis Medication Record,2
+32991451,Medication Reconciliation Recorded,12
+32991451,Vitals Recorded,3
+33007927,Pyxis Medication Record,5
+33007927,Vitals Recorded,4
+33032677,Vitals Recorded,4
+33065303,Pyxis Medication Record,11
+33065303,Vitals Recorded,6
+33211001,Medication Reconciliation Recorded,16
+33211001,Pyxis Medication Record,3
+33222885,Medication Reconciliation Recorded,45
+33222885,Pyxis Medication Record,7
+33222885,Vitals Recorded,4
+33227245,Medication Reconciliation Recorded,9
+33227245,Pyxis Medication Record,2
+33227245,Vitals Recorded,2
+33256413,Medication Reconciliation Recorded,11
+33256413,Vitals Recorded,3
+33256413,Pyxis Medication Record,3
+33258284,Medication Reconciliation Recorded,10
+33335871,Medication Reconciliation Recorded,14
+33335871,Vitals Recorded,4
+33347721,Vitals Recorded,11
+33347721,Medication Reconciliation Recorded,8
+33347721,Pyxis Medication Record,5
+33473053,Vitals Recorded,5
+33473053,Pyxis Medication Record,2
+33563008,Pyxis Medication Record,7
+33563008,Medication Reconciliation Recorded,3
+33563008,Vitals Recorded,2
+33678912,Vitals Recorded,11
+33678912,Medication Reconciliation Recorded,11
+33678912,Pyxis Medication Record,8
+33693488,Medication Reconciliation Recorded,24
+33693488,Vitals Recorded,2
+33863177,Medication Reconciliation Recorded,23
+33863177,Vitals Recorded,3
+33863177,Pyxis Medication Record,2
+33922323,Medication Reconciliation Recorded,16
+33922323,Vitals Recorded,6
+33922323,Pyxis Medication Record,6
+33978784,Medication Reconciliation Recorded,10
+33978784,Pyxis Medication Record,9
+34161260,Medication Reconciliation Recorded,18
+34161260,Pyxis Medication Record,3
+34176810,Medication Reconciliation Recorded,7
+34176810,Vitals Recorded,5
+34205403,Medication Reconciliation Recorded,9
+34205403,Pyxis Medication Record,4
+34205403,Vitals Recorded,3
+34236274,Vitals Recorded,8
+34236274,Pyxis Medication Record,6
+34236274,Medication Reconciliation Recorded,4
+34387871,Medication Reconciliation Recorded,9
+34387871,Vitals Recorded,4
+34391979,Vitals Recorded,16
+34391979,Medication Reconciliation Recorded,15
+34391979,Pyxis Medication Record,10
+34478228,Medication Reconciliation Recorded,25
+34478228,Pyxis Medication Record,3
+34478228,Vitals Recorded,2
+34558830,Vitals Recorded,4
+34558830,Medication Reconciliation Recorded,3
+34558830,Pyxis Medication Record,2
+34604678,Medication Reconciliation Recorded,12
+34604678,Vitals Recorded,2
+34617920,Pyxis Medication Record,33
+34617920,Medication Reconciliation Recorded,30
+34617920,Vitals Recorded,8
+34646141,Medication Reconciliation Recorded,17
+34646141,Pyxis Medication Record,5
+34646141,Vitals Recorded,4
+34807453,Medication Reconciliation Recorded,18
+34807453,Pyxis Medication Record,5
+34807453,Vitals Recorded,4
+34820898,Medication Reconciliation Recorded,42
+34820898,Vitals Recorded,9
+34820898,Pyxis Medication Record,7
+34918384,Vitals Recorded,4
+34918384,Medication Reconciliation Recorded,3
+34918384,Pyxis Medication Record,3
+34922474,Medication Reconciliation Recorded,18
+34922474,Vitals Recorded,9
+34922474,Pyxis Medication Record,2
+34948767,Vitals Recorded,10
+34948767,Medication Reconciliation Recorded,9
+34951841,Medication Reconciliation Recorded,10
+34951841,Vitals Recorded,4
+34982171,Medication Reconciliation Recorded,6
+34982171,Pyxis Medication Record,4
+34982171,Vitals Recorded,2
+34992024,Medication Reconciliation Recorded,24
+34992024,Pyxis Medication Record,3
+34992024,Vitals Recorded,2
+35087345,Medication Reconciliation Recorded,21
+35087345,Vitals Recorded,2
+35114287,Vitals Recorded,11
+35114287,Pyxis Medication Record,11
+35156583,Medication Reconciliation Recorded,23
+35156583,Pyxis Medication Record,10
+35156583,Vitals Recorded,8
+35168275,Medication Reconciliation Recorded,12
+35168275,Pyxis Medication Record,7
+35168275,Vitals Recorded,5
+35203396,Medication Reconciliation Recorded,36
+35203396,Vitals Recorded,4
+35205519,Medication Reconciliation Recorded,22
+35205519,Pyxis Medication Record,12
+35205519,Vitals Recorded,10
+35224843,Vitals Recorded,3
+35224843,Pyxis Medication Record,3
+35353291,Medication Reconciliation Recorded,22
+35353291,Vitals Recorded,2
+35357090,Vitals Recorded,4
+35357090,Medication Reconciliation Recorded,4
+35357090,Pyxis Medication Record,4
+35452640,Medication Reconciliation Recorded,33
+35452640,Pyxis Medication Record,30
+35452640,Vitals Recorded,11
+35470228,Pyxis Medication Record,3
+35540249,Pyxis Medication Record,8
+35540249,Vitals Recorded,6
+35547415,Medication Reconciliation Recorded,9
+35568186,Medication Reconciliation Recorded,14
+35568186,Vitals Recorded,5
+35681380,Medication Reconciliation Recorded,12
+35681380,Pyxis Medication Record,9
+35681380,Vitals Recorded,5
+35716124,Medication Reconciliation Recorded,24
+35716124,Vitals Recorded,9
+35758326,Medication Reconciliation Recorded,15
+35758326,Vitals Recorded,5
+35766268,Vitals Recorded,6
+35933027,Medication Reconciliation Recorded,11
+35933027,Vitals Recorded,3
+35933027,Pyxis Medication Record,3
+35942924,Medication Reconciliation Recorded,8
+35942924,Vitals Recorded,4
+35958096,Pyxis Medication Record,7
+35958096,Medication Reconciliation Recorded,5
+35958096,Vitals Recorded,3
+35958431,Medication Reconciliation Recorded,17
+35958431,Vitals Recorded,3
+35958431,Pyxis Medication Record,2
+35968195,Medication Reconciliation Recorded,7
+35968195,Pyxis Medication Record,6
+35968195,Vitals Recorded,2
+36021274,Medication Reconciliation Recorded,19
+36021274,Vitals Recorded,3
+36021274,Pyxis Medication Record,3
+36041505,Medication Reconciliation Recorded,34
+36041505,Pyxis Medication Record,15
+36041505,Vitals Recorded,11
+36132883,Medication Reconciliation Recorded,25
+36180820,Vitals Recorded,4
+36180820,Pyxis Medication Record,4
+36185653,Vitals Recorded,13
+36185653,Pyxis Medication Record,11
+36200931,Medication Reconciliation Recorded,10
+36200931,Vitals Recorded,3
+36200931,Pyxis Medication Record,2
+36250263,Medication Reconciliation Recorded,37
+36250263,Vitals Recorded,2
+36316394,Medication Reconciliation Recorded,9
+36323598,Medication Reconciliation Recorded,6
+36323598,Vitals Recorded,3
+36323598,Pyxis Medication Record,2
+36381328,Pyxis Medication Record,4
+36428628,Medication Reconciliation Recorded,33
+36428628,Vitals Recorded,6
+36474912,Medication Reconciliation Recorded,11
+36686656,Medication Reconciliation Recorded,23
+36686656,Vitals Recorded,4
+36715666,Medication Reconciliation Recorded,6
+36715666,Pyxis Medication Record,4
+36836328,Vitals Recorded,14
+36836328,Medication Reconciliation Recorded,8
+36836328,Pyxis Medication Record,8
+36976997,Medication Reconciliation Recorded,11
+36976997,Vitals Recorded,5
+37036523,Medication Reconciliation Recorded,25
+37036523,Vitals Recorded,11
+37036523,Pyxis Medication Record,5
+37145382,Vitals Recorded,2
+37196191,Medication Reconciliation Recorded,18
+37196191,Vitals Recorded,3
+37196191,Pyxis Medication Record,2
+37196722,Medication Reconciliation Recorded,25
+37196722,Vitals Recorded,3
+37196722,Pyxis Medication Record,3
+37202404,Vitals Recorded,22
+37202404,Pyxis Medication Record,11
+37206743,Medication Reconciliation Recorded,8
+37206743,Vitals Recorded,3
+37206743,Pyxis Medication Record,2
+37298974,Medication Reconciliation Recorded,12
+37298974,Vitals Recorded,2
+37321464,Medication Reconciliation Recorded,17
+37321464,Vitals Recorded,3
+37321464,Pyxis Medication Record,3
+37323830,Medication Reconciliation Recorded,5
+37323830,Vitals Recorded,3
+37330786,Medication Reconciliation Recorded,3
+37330786,Vitals Recorded,2
+37376268,Medication Reconciliation Recorded,6
+37376268,Vitals Recorded,4
+37401157,Medication Reconciliation Recorded,14
+37401157,Pyxis Medication Record,2
+37483564,Vitals Recorded,6
+37483564,Pyxis Medication Record,2
+37578680,Medication Reconciliation Recorded,9
+37578680,Vitals Recorded,7
+37578680,Pyxis Medication Record,5
+37593892,Medication Reconciliation Recorded,13
+37593892,Vitals Recorded,4
+37593892,Pyxis Medication Record,2
+37714209,Pyxis Medication Record,8
+37714209,Vitals Recorded,5
+37714209,Medication Reconciliation Recorded,4
+37802225,Medication Reconciliation Recorded,32
+37802225,Pyxis Medication Record,11
+37802225,Vitals Recorded,10
+37844627,Medication Reconciliation Recorded,8
+37844627,Pyxis Medication Record,8
+37844627,Vitals Recorded,3
+37887480,Pyxis Medication Record,10
+37887480,Vitals Recorded,6
+37887480,Medication Reconciliation Recorded,4
+37953392,Medication Reconciliation Recorded,23
+37953392,Vitals Recorded,2
+37965024,Medication Reconciliation Recorded,17
+37965024,Pyxis Medication Record,13
+37965024,Vitals Recorded,8
+37977734,Medication Reconciliation Recorded,10
+37977734,Pyxis Medication Record,4
+37977734,Vitals Recorded,4
+38000722,Medication Reconciliation Recorded,8
+38000722,Pyxis Medication Record,3
+38020791,Medication Reconciliation Recorded,18
+38020791,Vitals Recorded,5
+38074673,Medication Reconciliation Recorded,10
+38074673,Vitals Recorded,4
+38112554,Medication Reconciliation Recorded,13
+38112554,Pyxis Medication Record,3
+38112554,Vitals Recorded,2
+38133986,Medication Reconciliation Recorded,7
+38133986,Vitals Recorded,6
+38133986,Pyxis Medication Record,4
+38207210,Medication Reconciliation Recorded,23
+38207210,Vitals Recorded,4
+38207210,Pyxis Medication Record,3
+38213541,Vitals Recorded,4
+38216551,Vitals Recorded,11
+38216551,Medication Reconciliation Recorded,7
+38216551,Pyxis Medication Record,2
+38233644,Medication Reconciliation Recorded,8
+38233644,Vitals Recorded,2
+38237602,Pyxis Medication Record,23
+38237602,Vitals Recorded,15
+38260469,Medication Reconciliation Recorded,16
+38260469,Vitals Recorded,6
+38260469,Pyxis Medication Record,3
+38319705,Pyxis Medication Record,23
+38433139,Medication Reconciliation Recorded,11
+38433139,Vitals Recorded,3
+38449411,Medication Reconciliation Recorded,11
+38449411,Vitals Recorded,3
+38488295,Pyxis Medication Record,34
+38488295,Medication Reconciliation Recorded,13
+38488295,Vitals Recorded,9
+38566596,Pyxis Medication Record,8
+38566596,Vitals Recorded,5
+38566596,Medication Reconciliation Recorded,3
+38615683,Vitals Recorded,8
+38615683,Medication Reconciliation Recorded,6
+38676365,Pyxis Medication Record,5
+38687872,Medication Reconciliation Recorded,10
+38797992,Medication Reconciliation Recorded,14
+38797992,Vitals Recorded,4
+38797992,Pyxis Medication Record,3
+38801518,Medication Reconciliation Recorded,34
+38801518,Vitals Recorded,4
+38849383,Medication Reconciliation Recorded,33
+38849383,Pyxis Medication Record,4
+38849383,Vitals Recorded,3
+38875576,Vitals Recorded,5
+38875576,Pyxis Medication Record,4
+38890884,Pyxis Medication Record,22
+38890884,Medication Reconciliation Recorded,11
+38890884,Vitals Recorded,2
+38926302,Pyxis Medication Record,27
+38967799,Vitals Recorded,3
+39028384,Medication Reconciliation Recorded,5
+39028384,Vitals Recorded,3
+39054681,Medication Reconciliation Recorded,25
+39054681,Pyxis Medication Record,3
+39054681,Vitals Recorded,2
+39057874,Vitals Recorded,9
+39057874,Pyxis Medication Record,5
+39105638,Medication Reconciliation Recorded,37
+39105638,Pyxis Medication Record,27
+39105638,Vitals Recorded,5
+39140069,Medication Reconciliation Recorded,34
+39140069,Pyxis Medication Record,10
+39140069,Vitals Recorded,6
+39169528,Medication Reconciliation Recorded,7
+39169528,Vitals Recorded,4
+39169528,Pyxis Medication Record,4
+39202185,Medication Reconciliation Recorded,59
+39202185,Pyxis Medication Record,7
+39202185,Vitals Recorded,5
+39252789,Medication Reconciliation Recorded,6
+39252789,Vitals Recorded,5
+39252789,Pyxis Medication Record,2
+39266792,Pyxis Medication Record,15
+39266792,Vitals Recorded,14
+39297781,Pyxis Medication Record,7
+39297781,Vitals Recorded,3
+39300221,Medication Reconciliation Recorded,6
+39346340,Vitals Recorded,10
+39346340,Pyxis Medication Record,7
+39346340,Medication Reconciliation Recorded,4
+39348852,Medication Reconciliation Recorded,6
+39348852,Vitals Recorded,2
+39394858,Medication Reconciliation Recorded,34
+39394858,Vitals Recorded,4
+39394858,Pyxis Medication Record,4
+39399961,Medication Reconciliation Recorded,14
+39399961,Pyxis Medication Record,14
+39399961,Vitals Recorded,11
+39430108,Medication Reconciliation Recorded,16
+39430108,Vitals Recorded,4
+39441314,Medication Reconciliation Recorded,18
+39441314,Pyxis Medication Record,5
+39441314,Vitals Recorded,2
+39467106,Medication Reconciliation Recorded,11
+39467106,Vitals Recorded,5
+39501852,Medication Reconciliation Recorded,16
+39501852,Vitals Recorded,9
+39501852,Pyxis Medication Record,4
+39571461,Pyxis Medication Record,3
+39571461,Vitals Recorded,2
+39571461,Medication Reconciliation Recorded,2
+39621946,Medication Reconciliation Recorded,33
+39621946,Vitals Recorded,5
+39633384,Medication Reconciliation Recorded,39
+39633384,Pyxis Medication Record,21
+39633384,Vitals Recorded,8
+39661025,Pyxis Medication Record,8
+39661025,Vitals Recorded,3
+39738665,Medication Reconciliation Recorded,27
+39738665,Pyxis Medication Record,14
+39740242,Medication Reconciliation Recorded,18
+39740242,Vitals Recorded,4
+39740242,Pyxis Medication Record,3
+39747335,Medication Reconciliation Recorded,11
+39747335,Vitals Recorded,3
+39747335,Pyxis Medication Record,2
+39866888,Vitals Recorded,3
+39898790,Medication Reconciliation Recorded,22
+39898790,Vitals Recorded,4
+39910144,Vitals Recorded,6
+39910144,Pyxis Medication Record,6
+39930808,Medication Reconciliation Recorded,6
+39930808,Pyxis Medication Record,4
+39930808,Vitals Recorded,2
+39962121,Medication Reconciliation Recorded,12
+39962121,Vitals Recorded,5
+39962121,Pyxis Medication Record,5
+39968716,Medication Reconciliation Recorded,10
+39968716,Vitals Recorded,5
