@@ -1,0 +1,22 @@
+From_Activity,To_Activity,Trace_Transition_Count
+Medication Reconciliation Recorded,Medication Reconciliation Recorded,2575
+Pyxis Medication Record,Pyxis Medication Record,676
+Vitals Recorded,Vitals Recorded,430
+Pyxis Medication Record,Vitals Recorded,324
+Vitals Recorded,Pyxis Medication Record,300
+Vitals Recorded,ED Departure,159
+ED Arrival,Vitals Recorded,150
+Vitals Recorded,Medication Reconciliation Recorded,121
+Medication Reconciliation Recorded,Vitals Recorded,108
+Medication Reconciliation Recorded,Pyxis Medication Record,71
+Pyxis Medication Record,ED Departure,46
+ED Arrival,Medication Reconciliation Recorded,38
+Pyxis Medication Record,Medication Reconciliation Recorded,29
+ED Arrival,Pyxis Medication Record,27
+ED Departure,Vitals Recorded,24
+Medication Reconciliation Recorded,ED Departure,10
+ED Arrival,ED Departure,7
+ED Departure,Pyxis Medication Record,7
+Vitals Recorded,ED Arrival,2
+ED Departure,Medication Reconciliation Recorded,1
+Pyxis Medication Record,ED Arrival,1

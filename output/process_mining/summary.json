@@ -1,0 +1,155 @@
+{
+  "input_file": "output/clean_event_log.csv",
+  "schema": [
+    "Case_ID",
+    "Activity_Name",
+    "Timestamp",
+    "Source_Table",
+    "Source_Record_ID",
+    "Event_Type"
+  ],
+  "required_columns_used": [
+    "Case_ID",
+    "Activity_Name",
+    "Timestamp"
+  ],
+  "total_events": 5328,
+  "unique_ed_visits": 222,
+  "unique_activities": 5,
+  "events_per_visit": {
+    "minimum": 2,
+    "median": 21.0,
+    "mean": 24.0,
+    "maximum": 76
+  },
+  "activity_counts": {
+    "Medication Reconciliation Recorded": 2764,
+    "Pyxis Medication Record": 1082,
+    "Vitals Recorded": 1038,
+    "ED Arrival": 222,
+    "ED Departure": 222
+  },
+  "distinct_variants": 216,
+  "top_variants": [
+    {
+      "Variant": "ED Arrival -> ED Departure",
+      "Trace_Count": 6,
+      "Share_of_Visits": 0.02702702702702703,
+      "Activity_Count": 2
+    },
+    {
+      "Variant": "ED Arrival -> 9x Medication Reconciliation Recorded -> Vitals Recorded -> ED Departure",
+      "Trace_Count": 2,
+      "Share_of_Visits": 0.009009009009009009,
+      "Activity_Count": 12
+    },
+    {
+      "Variant": "ED Arrival -> ED Departure -> 5x Pyxis Medication Record",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 7
+    },
+    {
+      "Variant": "ED Arrival -> 19x Medication Reconciliation Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 21
+    },
+    {
+      "Variant": "ED Arrival -> 25x Medication Reconciliation Recorded -> 2x Pyxis Medication Record -> Vitals Recorded -> Pyxis Medication Record -> Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 32
+    },
+    {
+      "Variant": "ED Arrival -> 23x Medication Reconciliation Recorded -> Vitals Recorded -> Pyxis Medication Record -> Vitals Recorded -> 2x Pyxis Medication Record -> 2x Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 32
+    },
+    {
+      "Variant": "ED Arrival -> 22x Medication Reconciliation Recorded -> 4x Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 28
+    },
+    {
+      "Variant": "ED Arrival -> 21x Medication Reconciliation Recorded -> 2x Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 25
+    },
+    {
+      "Variant": "ED Arrival -> 18x Medication Reconciliation Recorded -> Pyxis Medication Record -> Vitals Recorded -> Pyxis Medication Record -> 8x Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 31
+    },
+    {
+      "Variant": "ED Arrival -> 18x Medication Reconciliation Recorded -> Vitals Recorded -> 5x Pyxis Medication Record -> Vitals Recorded -> ED Departure",
+      "Trace_Count": 1,
+      "Share_of_Visits": 0.0045045045045045045,
+      "Activity_Count": 27
+    }
+  ],
+  "visits_with_repeated_activities": 215,
+  "repeated_activity_visit_pairs": 518,
+  "event_gap_minutes": {
+    "transition_count": 5106,
+    "same_timestamp_transition_count": 2858,
+    "positive_gap_count": 2248,
+    "minimum_minutes": 0.0,
+    "median_minutes": 0.0,
+    "p90_minutes": 74.5,
+    "maximum_minutes": 1274.0
+  },
+  "arrival_departure_checks": {
+    "visits_with_arrival": 222,
+    "visits_with_departure": 222,
+    "visits_with_departure_not_last": 32,
+    "visits_with_non_departure_event_after_departure_time": 31,
+    "visits_with_non_departure_event_tied_with_departure": 1,
+    "visits_with_arrival_after_departure": 0
+  },
+  "post_departure_events": {
+    "event_count": 123,
+    "visit_count": 31,
+    "by_activity": {
+      "Medication Reconciliation Recorded": 7,
+      "Pyxis Medication Record": 49,
+      "Vitals Recorded": 67
+    },
+    "by_source_table": {
+      "medrecon": 7,
+      "pyxis": 49,
+      "vitalsign": 67
+    },
+    "hours_after_departure": {
+      "minimum": 0.0011111111111111111,
+      "median": 1.8472222222222223,
+      "mean": 4.300286811201445,
+      "p75": 4.466666666666667,
+      "maximum": 35.32222222222222
+    }
+  },
+  "sequence_review_flagged_visits": 215,
+  "directly_follows_edges": 21,
+  "start_activities": {
+    "ED Arrival": 219,
+    "Vitals Recorded": 2,
+    "Pyxis Medication Record": 1
+  },
+  "end_activities": {
+    "ED Departure": 190,
+    "Vitals Recorded": 26,
+    "Pyxis Medication Record": 6
+  },
+  "model_status": "PM4Py directly-follows graph discovered from recorded activity sequences. It is an exploratory model, not a validated clinical pathway.",
+  "interpretation_limitations": [
+    "All time differences are gaps between recorded events, not confirmed clinical waiting times.",
+    "Records sharing a timestamp have no defensible within-timestamp order; deterministic activity sorting is only for repeatability.",
+    "Activity labels describe source records. Pyxis records do not prove medication administration.",
+    "Triage and diagnosis are not timestamped in the source archive and are absent from this event log.",
+    "Observed variants and the directly-follows graph describe this demo extract only and do not establish clinical bottlenecks or causal pathways."
+  ]
+}

@@ -1,0 +1,216 @@
+Case_ID,Review_Flags,Event_Count
+30094124,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,42
+30115213,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,11
+30193781,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+30225689,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+30272878,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+30279522,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,63
+30324772,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+30373795,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,41
+30390242,Multiple records share a timestamp; within-time order is ambiguous,3
+30667562,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+30683757,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+30689793,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+30701739,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,9
+30804580,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18
+30836087,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,33
+30915333,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,38
+30952335,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,38
+31023359,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+31121963,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+31153288,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,30
+31226423,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+31254712,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,33
+31270431,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+31283645,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+31320010,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+31353849,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,35
+31579293,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+31588683,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18
+31612436,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+31626291,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,34
+31628990,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+31640785,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,63
+31660580,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+31764136,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+31806264,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+31945330,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+31960365,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+31970687,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,11
+32007337,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+32034003,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+32039794,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+32095131,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+32103106,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+32204198,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,9
+32259573,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+32272346,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+32281632,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+32287800,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,66
+32345277,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+32405286,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,26
+32443787,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,31
+32537287,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+32579239,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+32587478,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+32719751,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+32822973,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+32840887,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,30
+32891808,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+32952584,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+32991451,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+33007927,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,11
+33032677,Consecutive repeated activity; review timestamp/source ordering,7
+33065303,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+33211001,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+33222885,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,58
+33227245,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+33256413,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+33258284,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+33335871,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+33347721,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,26
+33473053,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+33563008,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+33678912,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+33693488,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+33863177,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,30
+33922323,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,30
+33978784,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+34161260,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+34176810,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+34205403,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18
+34236274,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+34387871,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+34391979,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,43
+34478228,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+34558830,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,11
+34604678,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+34617920,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,73
+34646141,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+34807453,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+34820898,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,60
+34918384,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+34922474,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,31
+34948767,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+34951841,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+34982171,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+34992024,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,31
+35087345,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+35114287,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+35156583,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,43
+35168275,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,26
+35203396,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,42
+35205519,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,46
+35224843,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,8
+35353291,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+35357090,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+35452640,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,76
+35470228,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,5
+35540249,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+35547415,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+35568186,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+35681380,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+35716124,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,35
+35758326,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+35766268,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,9
+35933027,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+35942924,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+35958096,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+35958431,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+35968195,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+36021274,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+36041505,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,62
+36132883,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+36180820,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+36185653,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,26
+36200931,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+36250263,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,42
+36316394,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+36323598,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+36381328,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,6
+36428628,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,42
+36474912,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+36686656,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+36715666,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+36836328,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+36976997,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+37036523,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,43
+37145382,Consecutive repeated activity; review timestamp/source ordering,4
+37196191,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+37196722,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,33
+37202404,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,35
+37206743,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+37298974,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+37321464,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+37323830,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+37330786,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,8
+37376268,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+37401157,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+37483564,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+37578680,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,23
+37593892,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+37714209,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+37802225,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,55
+37844627,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,21
+37887480,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+37953392,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+37965024,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,40
+37977734,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+38000722,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+38020791,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+38074673,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+38112554,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,20
+38133986,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+38207210,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+38213541,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering,7
+38216551,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+38233644,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+38237602,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,40
+38260469,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+38319705,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,25
+38433139,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+38449411,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+38488295,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,58
+38566596,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18
+38615683,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+38676365,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,7
+38687872,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+38797992,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,23
+38801518,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,41
+38849383,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,42
+38875576,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,11
+38890884,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,37
+38926302,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,29
+38967799,Consecutive repeated activity; review timestamp/source ordering,5
+39028384,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+39054681,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,32
+39057874,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,16
+39105638,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,71
+39140069,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,52
+39169528,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,17
+39202185,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,73
+39252789,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,15
+39266792,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,31
+39297781,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,12
+39300221,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+39346340,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,23
+39348852,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,10
+39394858,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,44
+39399961,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,41
+39430108,ED Departure is not the final sorted activity; Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,22
+39441314,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+39467106,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,19
+39501852,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,31
+39571461,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,9
+39621946,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,41
+39633384,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,70
+39661025,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,13
+39738665,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,43
+39740242,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,27
+39747335,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18
+39866888,Consecutive repeated activity; review timestamp/source ordering,6
+39898790,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,28
+39910144,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+39930808,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,14
+39962121,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,24
+39968716,Consecutive repeated activity; review timestamp/source ordering; Multiple records share a timestamp; within-time order is ambiguous,18

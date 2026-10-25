@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Keep the source archive and generated data out of version control.
+data/*.zip
+output/*.csv
+reports/*.json
